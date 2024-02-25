@@ -88,7 +88,7 @@
             >;
         };
 
-        layer_Layer__5 {
+        layer_colemak {
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans     &trans   &trans         &trans  &trans
  &trans   &kp Q   &kp W   &kp F   &kp P   &kp G            &trans                                                  &trans   &kp J   &kp L      &kp U    &kp Y  &kp SEMICOLON  &trans
